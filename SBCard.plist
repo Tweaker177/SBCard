@@ -6,9 +6,9 @@
 	<dict>
 		<key>Bundles</key>
 		<array>
-			<string>com.apple.UIKit</string>
-			<string>com.apple.springboard</string>
-			<string>com.apple.springboardservices</string>
+	<string>com.apple.springboard</string>
+<string>com.apple.springboardservices</string>
+<string>com.apple.UIKit</string>
 		</array>
 	</dict>
 </dict>
