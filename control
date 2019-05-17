@@ -1,9 +1,9 @@
 Package: com.julioverne.sbcard
-Name: SBCard-A12-Update
+Name: SBCard
 Author: JulioVerne
-Description:Creates a page in app switcher for SB like in earlier iOS versions, but also with option to kill all open apps by swiping up. No options to configure. Install and enjoy. Compatible all devices iOS 11-12.1.2 including A12. Tweak updated by i0s_tweak3r but originally released by Julio Verne. Forked from Github.
+Description:Creates a page in app switcher for SB like in earlier iOS versions, but also with option to kill all open apps by swiping up. No options to configure. Install and enjoy. Compatible all devices iOS 10-12.1.2 including A12. Tweak updated by i0s_tweak3r but originally released by Julio Verne. Forked from Github.
 Depends: mobilesubstrate, firmware (>= 11.0)
-Maintainer: i0s_tweak3r
+Maintainer: JulioVerne
 Architecture: iphoneos-arm
 Section: Tweaks
 Version: 0.0.2
